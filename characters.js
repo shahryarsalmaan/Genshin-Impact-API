@@ -78,6 +78,66 @@ const characters = [
   {
     name: "Faruzan",
     image: "https://i.imgur.com/2tkL8Y7.png"
+  },
+  {
+    name: "Klee",
+    image: "https://i.ibb.co/WkNyGP1/xva213.jpg"
+  },
+  {
+    name: "Yanfei",
+    image: "https://i.ibb.co/LSptkKV/xva213.jpg"
+  },
+  {
+    name: "Beidou",
+    image: "https://i.ibb.co/BNML8sG/xva213.jpg"
+  },
+  {
+    name: "Kokomi",
+    image: "https://i.ibb.co/f1trhCT/xva213.jpg"
+  },
+  {
+    name: "Ningguang",
+    image: "https://i.ibb.co/h7BkjTd/xva21.jpg"
+  },
+  {
+    name: "Rosaria",
+    image: "https://i.ibb.co/n6X6CDd/xva213.jpg"
+  },
+  {
+    name: "Sara",
+    image: "https://i.ibb.co/fqvM3Sg/xva213.jpg"
+  },
+  {
+    name: "Yoimiya",
+    image: "https://i.ibb.co/bQQ8Nd0/xva213.jpg"
+  },
+  {
+    name: "Ayato",
+    image: "https://i.ibb.co/cX4DJr7/xva213.jpg"
+  },
+  {
+    name: "Venti",
+    image: "https://i.ibb.co/JRDcW38/xva213.jpg"
+  },
+  {
+    name: "Ayaka",
+    image: "https://i.ibb.co/jrvy5sG/xva213.jpg"
+  },
+  {
+    name: "Gorou",
+    image: "https://i.ibb.co/W68nMDd/xva213.jpg"
+  },
+  {
+    name: "Xiao",
+    image: "https://i.ibb.co/s2shgFM/xva213.jpg"
+  },
+  {
+    name: "Itto",
+    image: "https://i.ibb.co/4dfxMvK/xva213.jpg"
+  },
+  {
+    name: "Heizou",
+    image: "https://i.ibb.co/WPfK731/xva213.jpg"
   }
 ];
 
