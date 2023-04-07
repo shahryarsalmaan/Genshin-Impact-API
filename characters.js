@@ -222,6 +222,10 @@ const characters = [
   {
     name: "Traveler2",
     image: "https://i.ibb.co/sbr5ZmL/xva2.jpg"
+  },
+{
+    name: "Traveler3",
+    image: "https://i.ibb.co/Mg42Krg/xva21.jpg"
   }
 ];
 
