@@ -23,7 +23,9 @@ app.get("/character/:name", (req, res) => {
   if (character) {
     res.json(character);
   } else {
-    res.status(404).send("Character not found");
+    const error = new Error('Character not found');
+    error.status = 404;
+    next(error);
   }
 });
 
@@ -36,6 +38,11 @@ app.get("/weapon/:name", (req, res) => {
 });
 
 // Add more endpoints for other types of images as needed
+
+app.use((err, req, res, next) => {
+  console.error(err.stack);
+  res.status(err.status || 500).send(err.message || 'Something broke!');
+});
 
 const port = process.env.PORT || 3000;
 app.listen(port, () => {
