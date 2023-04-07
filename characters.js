@@ -138,6 +138,90 @@ const characters = [
   {
     name: "Heizou",
     image: "https://i.ibb.co/WPfK731/xva213.jpg"
+  },
+{
+    name: "Fischl",
+    image: "https://i.ibb.co/k0LYz4N/xva213.jpg"
+  },
+  {
+    name: "Miko",
+    image: "https://i.ibb.co/f9F4Lm7/xva213.jpg"
+  },
+  {
+    name: "Yin Jin",
+    image: "https://i.ibb.co/RC5Gpnx/xva213.jpg"
+  },
+  {
+    name: "Eula",
+    image: "https://i.ibb.co/S51K2ST/xva213.jpg"
+  },
+  {
+    name: "Thoma",
+    image: "https://i.ibb.co/M6sSrjC/xva213.jpg"
+  },
+  {
+    name: "Trataglia",
+    image: "https://i.ibb.co/2yht6F1/xva21.jpg"
+  },
+  {
+    name: "Zhongli",
+    image: "https://i.ibb.co/zQ5znW5/xva213.jpg"
+  },
+  {
+    name: "Aloy",
+    image: "https://i.ibb.co/McFqF5f/xva213.jpg"
+  },
+  {
+    name: "Sayu",
+    image: "https://i.ibb.co/Z86zny9/xva213.jpg"
+  },
+  {
+    name: "Lisa",
+    image: "https://i.ibb.co/8rSRQzF/xva213.jpg"
+  },
+  {
+    name: "Amber",
+    image: "https://i.ibb.co/mN39fbm/xva213.jpg"
+  },
+  {
+    name: "Barbara",
+    image: "https://i.ibb.co/dtyVbGS/xva213.jpg"
+  },
+  {
+    name: "Kaeya",
+    image: "https://i.ibb.co/BfT0xLt/xva213.jpg"
+  },
+  {
+    name: "Xinyan",
+    image: "https://i.ibb.co/PTzdCZQ/xva213.jpg"
+  },
+  {
+    name: "Chongyun",
+    image: "https://i.ibb.co/VNrfFKv/xva213.jpg"
+  },
+  {
+    name: "Razor",
+    image: "https://i.ibb.co/xhx3RFF/xva213.jpg"
+  },
+  {
+    name: "Qiqi",
+    image: "https://i.ibb.co/w49rJg0/xva213.jpg"
+  },
+  {
+    name: "Noelle",
+    image: "https://i.ibb.co/znQ6j0G/xva213.jpg"
+  },
+  {
+    name: "Keqing",
+    image: "https://i.ibb.co/QpXySsp/xva213.jpg"
+  },
+  {
+    name: "Traveler1",
+    image: "https://i.ibb.co/wJ2s9CC/xva21.jpg"
+  },
+  {
+    name: "Traveler2",
+    image: "https://i.ibb.co/sbr5ZmL/xva2.jpg"
   }
 ];
 
