@@ -54,4 +54,4 @@ This API was created by Shahryar Salmaan. The character data was sourced from Ge
 
 ## License
 
-This project is licensed under the [License Name Here] license. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT license. See the [LICENSE](LICENSE) file for details.
