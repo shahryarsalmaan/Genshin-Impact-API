@@ -1,0 +1,24 @@
+{
+  "name": "genshin-impact-api",
+  "version": "1.0.0",
+  "description": "This is an API for the popular game Genshin Impact, designed to be used with XaviaBot. It provides information about characters in the game, including their names and images.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node -r dotenv/config index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahryarsalmaan/Genshin-Impact-API.git"
+  },
+  "keywords": [],
+  "author": "Taki-Chan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shahryarsalmaan/Genshin-Impact-API/issues"
+  },
+  "homepage": "https://github.com/shahryarsalmaan/Genshin-Impact-API#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
