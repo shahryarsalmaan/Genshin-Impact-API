@@ -1,4 +1,3 @@
-T:
 # Genshin Impact API for XaviaBot
 
 This is an API for the popular game Genshin Impact, designed to be used with XaviaBot. It provides information about characters in the game, including their names and images.
